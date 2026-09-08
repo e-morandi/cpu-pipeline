@@ -1,0 +1,9 @@
+# Quartus files
+db/
+*.qsf
+*.qpf
+incremental_db/
+output_files/
+# Compiled VHDL files
+*.cf
+
